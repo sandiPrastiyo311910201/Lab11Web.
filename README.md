@@ -50,6 +50,9 @@ Mengaktifkan auto rooting dengan mengubah setAutoRoute(true)
 # Langkah 8
 Menambahkan method baru pada controller page dan mengaksesnya
 
+![8](https://user-images.githubusercontent.com/81818405/122620832-2818a700-d0be-11eb-9de5-61056e76c73b.PNG)
+
+
 # Langkah 9
 Menambahkan layout web dengan menggunakan css disini kita akan menggunakan css dari layout pratikum 4
 
